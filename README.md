@@ -3,7 +3,7 @@
 
 Frontend do site desenvolvido para o projeto de Iniciação Científica "Automação de Aquário com Raspberry Pi" do Instituto Federal do Sudeste de Minas Gerais. <br><br>
 Para esse desenvolvimento foi utilizada a ferramenta [Pingendo](https://pingendo.com/), por conta das facilidades com bootstrap e design responsivo.<br><br>
-Imagens do Design <br><br>
+### Imagens do Design <br><br>
 **index** <br><br>
 ![](https://image.ibb.co/gQCG5o/index1.jpg) <br><br><br>
 **index 2** <br><br>
